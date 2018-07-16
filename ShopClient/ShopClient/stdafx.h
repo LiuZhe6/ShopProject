@@ -9,7 +9,12 @@
 
 #include <stdio.h>
 #include <tchar.h>
-
+#include<winsock2.h>
+#include<iostream>
+#include<string>
+#include<cstdlib>
+using namespace std;
+#pragma comment(lib, "ws2_32.lib")
 
 
 // TODO:  在此处引用程序需要的其他头文件

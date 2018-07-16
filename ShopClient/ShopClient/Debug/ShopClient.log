@@ -1,0 +1,10 @@
+﻿  ShopClient.cpp
+d:\workspace\vs\projects\shopproject\shopclient\shopclient\shopclient.cpp(19): warning C4551: 缺少参数列表的函数调用
+d:\workspace\vs\projects\shopproject\shopclient\shopclient\shopclient.cpp(30): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: 参见“inet_addr”的声明
+d:\workspace\vs\projects\shopproject\shopclient\shopclient\shopclient.cpp(61): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\workspace\vs\projects\shopproject\shopclient\shopclient\shopclient.cpp(62): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+  ShopClient.vcxproj -> D:\workspace\VS\Projects\ShopProject\ShopClient\Debug\ShopClient.exe
+  ShopClient.vcxproj -> D:\workspace\VS\Projects\ShopProject\ShopClient\Debug\ShopClient.pdb (Full PDB)
